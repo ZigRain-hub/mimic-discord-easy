@@ -1,0 +1,405 @@
+[unix:1793813099] Программа запущена.
+[unix:1793813099] ПРЕДУПРЕЖДЕНИЕ: не удалось прочитать D:\dev\VSCode\rust\qdcord_src\target\release\detectable-games.json: Не удается найти указанный файл. (os error 2)
+[unix:1793813105] Программа завершена.
+[unix:1793813118] Программа запущена.
+[unix:1793813118] ПРЕДУПРЕЖДЕНИЕ: не удалось прочитать D:\dev\VSCode\rust\qdcord_src\target\release\detectable-games.json: Не удается найти указанный файл. (os error 2)
+[unix:1793813405] Программа запущена.
+[unix:1793813405] В базе найдено 1583 подходящих игр.
+[unix:1793813430] Пропущено игр из истории: 0. Новых доступно: 1583.
+[unix:1793813430] Разные игры: 1583 игр, 72 пачек по 22.
+[unix:1793813430] Пачка 1/72: запуск 22 процессов.
+[unix:1793813430] Запущен Overwatch 2 (overwatch.exe), PID 5128.
+[unix:1793813430] Запущен Hearthstone (hearthstone.exe), PID 16788.
+[unix:1793813430] Запущен Dota 2 (dota2.exe), PID 8672.
+[unix:1793813431] Запущен Tom Clancy's Rainbow Six Siege X (rainbowsix.exe), PID 17396.
+[unix:1793813431] Запущен Rocket League (rocketleague.exe), PID 18016.
+[unix:1793813432] Запущен Heroes of the Storm (heroes of the storm.exe), PID 21888.
+[unix:1793813432] Запущен ARK: Survival Evolved (shootergame.exe), PID 1704.
+[unix:1793813432] Запущен FINAL FANTASY XIV Online (ffxiv_dx11.exe), PID 12500.
+[unix:1793813433] Запущен Geometry Dash (geometrydash.exe), PID 21848.
+[unix:1793813433] Запущен Dolphin (dolphin.exe), PID 5796.
+[unix:1793813434] Запущен Brawlhalla (brawlhalla.exe), PID 12476.
+[unix:1793813434] Запущен The Walking Dead (walkingdead101.exe), PID 22084.
+[unix:1793813434] Запущен Sonic Mania (sonicmania.exe), PID 17216.
+[unix:1793813435] Запущен Golf With Your Friends (golf with your friends.exe), PID 18892.
+[unix:1793813435] Запущен Cities: Skylines (cities.exe), PID 20972.
+[unix:1793813436] Запущен Arma 3 (arma3.exe), PID 15396.
+[unix:1793813436] Запущен Project 64 (project64.exe), PID 21436.
+[unix:1793813436] Запущен RuneScape (runescape.exe), PID 11068.
+[unix:1793813437] Запущен Dead by Daylight (deadbydaylight-egs-shipping.exe), PID 4952.
+[unix:1793813437] Запущен War Thunder (aces.exe), PID 16192.
+[unix:1793813438] Запущен Battlefield 1 (bf1.exe), PID 11520.
+[unix:1793813438] Запущен The Binding of Isaac: Rebirth (isaac-ng.exe), PID 23772.
+[unix:1793813453] Остановлено процессов: 22.
+[unix:1793813453] Пачка 1/72: завершено.
+[unix:1793813453] Пачка 2/72: запуск 22 процессов.
+[unix:1793813453] Запущен HIVESWAP: ACT 1 (hiveswap-act1.exe), PID 18820.
+[unix:1793813454] Запущен Hearts of Iron IV (hoi4.exe), PID 8396.
+[unix:1793813454] Запущен Blade & Soul (playbns.exe), PID 20808.
+[unix:1793813454] Запущен Sid Meier's Civilization V (civilizationv_dx11.exe), PID 18288.
+[unix:1793813455] Запущен SMITE (smite.exe), PID 22864.
+[unix:1793813455] Запущен Factorio (factorio.exe), PID 21352.
+[unix:1793813456] Запущен Diablo III (diablo iii.exe), PID 9180.
+[unix:1793813456] Запущен StarCraft II (sc2.exe), PID 7044.
+[unix:1793813457] Запущен The Elder Scrolls V: Skyrim (tesv.exe), PID 23360.
+[unix:1793813457] Запущен Tom Clancy's The Division (thedivision.exe), PID 20392.
+[unix:1793813457] Запущен ShellShock Live (shellshocklive.exe), PID 7772.
+[unix:1793813458] Запущен Space Engineers (spaceengineers.exe), PID 15012.
+[unix:1793813458] Запущен Portal 2 (portal2.exe), PID 24252.
+[unix:1793813459] Запущен The Sims 4 (ts4_x64.exe), PID 14400.
+[unix:1793813459] Запущен Call of Duty: Black Ops III (blackops3.exe), PID 19256.
+[unix:1793813459] Запущен Stardew Valley (stardew valley.exe), PID 23940.
+[unix:1793813460] Запущен DARK SOULS III (darksoulsiii.exe), PID 4844.
+[unix:1793813460] Запущен Fallout 4 (fallout4.exe), PID 21052.
+[unix:1793813461] Запущен Fallout: New Vegas (falloutnv.exe), PID 12708.
+[unix:1793813461] Запущен MapleStory (maplestory.exe), PID 9348.
+[unix:1793813461] Запущен The Witcher 3: Wild Hunt (witcher3.exe), PID 2732.
+[unix:1793813462] Запущен Battlefield 4 (bf4cte.exe), PID 7004.
+[unix:1793813477] Остановлено процессов: 22.
+[unix:1793813477] Пачка 2/72: завершено.
+[unix:1793813477] Пачка 3/72: запуск 22 процессов.
+[unix:1793813477] Запущен XCOM 2 (xcom2.exe), PID 16236.
+[unix:1793813477] Запущен Guild Wars 2 (gw2-64.exe), PID 22368.
+[unix:1793813478] Запущен Outlast (olgame.exe), PID 23528.
+[unix:1793813478] Запущен Depth (depthgame.exe), PID 18596.
+[unix:1793813479] Запущен Tabletop Simulator (tabletop simulator.exe), PID 7936.
+[unix:1793813479] Запущен Stellaris (stellaris.exe), PID 15208.
+[unix:1793813480] Запущен Trove (trove.exe), PID 18692.
+[unix:1793813480] Запущен Gang Beasts (gang beasts.exe), PID 10616.
+[unix:1793813480] Запущен The Forest (theforest.exe), PID 22256.
+[unix:1793813481] Запущен Europa Universalis IV (eu4.exe), PID 23668.
+[unix:1793813481] Запущен Town of Salem (townofsalem.exe), PID 21476.
+[unix:1793813482] Запущен Robocraft (robocraftclient.exe), PID 2488.
+[unix:1793813482] Запущен Golf It! (golfit-win64-shipping.exe), PID 8084.
+[unix:1793813482] Запущен Shadowverse (shadowverse.exe), PID 12108.
+[unix:1793813483] Запущен 7 Days to Die (7daystodie.exe), PID 1480.
+[unix:1793813483] Запущен Killing Floor 2 (kfgame.exe), PID 16752.
+[unix:1793813484] Запущен StarCraft (starcraft.exe), PID 21984.
+[unix:1793813484] Запущен Undertale (undertale.exe), PID 23464.
+[unix:1793813484] Запущен Business Tour - Online Multiplayer Board Game (businesstour.exe), PID 23368.
+[unix:1793813485] Запущен Fallout Shelter (falloutshelter.exe), PID 19512.
+[unix:1793813485] Запущен Slime Rancher (slimerancher.exe), PID 23752.
+[unix:1793813486] Запущен Last Man Standing (lms.exe), PID 10328.
+[unix:1793813501] Остановлено процессов: 22.
+[unix:1793813501] Пачка 3/72: завершено.
+[unix:1793813501] Пачка 4/72: запуск 22 процессов.
+[unix:1793813501] Запущен Titanfall 2 (titanfall2.exe), PID 16300.
+[unix:1793813501] Запущен STAR WARS™ Battlefront™ (starwarsbattlefront.exe), PID 1384.
+[unix:1793813502] Запущен STAR WARS: The Old Republic (swtor.exe), PID 16536.
+[unix:1793813502] Запущен PlanetSide 2 (planetside2_x64.exe), PID 20328.
+[unix:1793813503] Запущен Psychonauts (psychonauts.exe), PID 23460.
+[unix:1793813503] Запущен Call of Duty: World at War (codwawmp.exe), PID 11372.
+[unix:1793813503] Запущен Crossout (crossout-d3d9.exe), PID 17740.
+[unix:1793813504] Запущен Dofus (dofus.exe), PID 20948.
+[unix:1793813504] Запущен Comedy Night (comedy night.exe), PID 24552.
+[unix:1793813505] Запущен Elite Dangerous (elitedangerous.exe), PID 10940.
+[unix:1793813505] Запущен Wizard101 (wizard101.exe), PID 3208.
+[unix:1793813505] Запущен AdVenture Capitalist (adventure-capitalist.exe), PID 17848.
+[unix:1793813506] Запущен Age of Empires II: HD Edition (aok hd.exe), PID 18836.
+[unix:1793813506] Запущен EVE Online (exefile.exe), PID 10224.
+[unix:1793813507] Запущен Heat Signature (heat_signature.exe), PID 16612.
+[unix:1793813507] Запущен RimWorld (rimworldwin.exe), PID 8248.
+[unix:1793813507] Запущен BeamNG.drive (beamng.drive.exe), PID 10848.
+[unix:1793813508] Запущен Sid Meier's Civilization VI (civilizationvi.exe), PID 21372.
+[unix:1793813508] Запущен The Elder Scrolls Online: Tamriel Unlimited (bethesda.net_launcher.exe), PID 13856.
+[unix:1793813509] Запущен DOOM (doomx64.exe), PID 15020.
+[unix:1793813509] Запущен FTL: Faster Than Light (ftlgame.exe), PID 23596.
+[unix:1793813509] Запущен Realm of the Mad God (realm of the mad god.exe), PID 14464.
+[unix:1793813525] Остановлено процессов: 22.
+[unix:1793813525] Пачка 4/72: завершено.
+[unix:1793813525] Пачка 5/72: запуск 22 процессов.
+[unix:1793813525] Запущен Just Cause 3 (justcause3.exe), PID 18872.
+[unix:1793813525] Запущен Portal (hl2p.exe), PID 4608.
+[unix:1793813525] Запущен FIFA 17 (fifa17.exe), PID 18876.
+[unix:1793813526] Запущен DRAGON BALL XENOVERSE 2 (dbxv2.exe), PID 3108.
+[unix:1793813526] Запущен Friday the 13th: The Game (summercamp.exe), PID 17276.
+[unix:1793813527] Запущен Prison Architect (prison architect.exe), PID 24128.
+[unix:1793813527] Запущен TEKKEN 7 (tekkengame-win64-shipping.exe), PID 18260.
+[unix:1793813528] Запущен The Escapists 2 (theescapists2.exe), PID 17184.
+[unix:1793813528] Запущен Crusader Kings II (ck2game.exe), PID 22204.
+[unix:1793813528] Запущен Middle-earth: Shadow of Mordor (shadowofmordor.exe), PID 6852.
+[unix:1793813529] Запущен METAL GEAR SOLID V: THE PHANTOM PAIN (mgsvmgo.exe), PID 21484.
+[unix:1793813529] Запущен Idle Champions of the Forgotten Realms (idledragons.exe), PID 1308.
+[unix:1793813530] Запущен HuniePop (huniepop.exe), PID 17600.
+[unix:1793813530] Запущен Ultimate Chicken Horse (ultimatechickenhorse.exe), PID 6940.
+[unix:1793813530] Запущен NieR:Automata (nierautomata.exe), PID 6984.
+[unix:1793813531] Запущен DARK SOULS II: Scholar of the First Sin (darksoulsii.exe), PID 12640.
+[unix:1793813531] Запущен Total War: WARHAMMER II (warhammer2.exe), PID 1792.
+[unix:1793813532] Запущен Skullgirls (skullgirls.exe), PID 22104.
+[unix:1793813532] Запущен Farming Simulator 17 (farmingsimulator2017game.exe), PID 21516.
+[unix:1793813532] Запущен 100% Orange Juice (100orange.exe), PID 19228.
+[unix:1793813533] Запущен Call of Duty: Black Ops II (t6sp.exe), PID 4740.
+[unix:1793813533] Запущен Sonic Adventure 2 (sonic2app.exe), PID 16792.
+[unix:1793813540] Запрошена остановка.
+[unix:1793813540] Остановлено процессов: 22.
+[unix:1793813540] Пачка 5/72: завершено.
+[unix:1793813540] Запуск завершён.
+[unix:1793813544] Пропущено игр из истории: 89. Новых доступно: 1494.
+[unix:1793813544] Разные игры: 1494 игр, 24 пачек по 64.
+[unix:1793813544] Пачка 1/24: запуск 64 процессов.
+[unix:1793813544] Запущен Portal (hl2p.exe), PID 16140.
+[unix:1793813544] Запущен FIFA 17 (fifa17.exe), PID 15824.
+[unix:1793813545] Запущен DRAGON BALL XENOVERSE 2 (dbxv2.exe), PID 3696.
+[unix:1793813545] Запущен Friday the 13th: The Game (summercamp.exe), PID 3608.
+[unix:1793813545] Запущен Prison Architect (prison architect.exe), PID 13432.
+[unix:1793813546] Запущен TEKKEN 7 (tekkengame-win64-shipping.exe), PID 22784.
+[unix:1793813546] Запущен The Escapists 2 (theescapists2.exe), PID 23680.
+[unix:1793813547] Запущен Crusader Kings II (ck2game.exe), PID 4252.
+[unix:1793813547] Запущен Middle-earth: Shadow of Mordor (shadowofmordor.exe), PID 11024.
+[unix:1793813547] Запущен METAL GEAR SOLID V: THE PHANTOM PAIN (mgsvmgo.exe), PID 20804.
+[unix:1793813548] Запущен Idle Champions of the Forgotten Realms (idledragons.exe), PID 20096.
+[unix:1793813548] Запущен HuniePop (huniepop.exe), PID 18996.
+[unix:1793813548] Запрошена остановка.
+[unix:1793813549] Остановлено процессов: 12.
+[unix:1793813549] Пачка 1/24: завершено.
+[unix:1793813549] Запуск завершён.
+[unix:1793813566] Пропущено игр из истории: 89. Новых доступно: 1494.
+[unix:1793813566] Накрутка часов: 235 процессов, длительность до «Стоп».
+[unix:1793813566] Запущен Portal (hl2p.exe), PID 11892.
+[unix:1793813566] Запущен FIFA 17 (fifa17.exe), PID 8636.
+[unix:1793813566] Запущен DRAGON BALL XENOVERSE 2 (dbxv2.exe), PID 1720.
+[unix:1793813566] Запущен Friday the 13th: The Game (summercamp.exe), PID 24156.
+[unix:1793813566] Запущен Prison Architect (prison architect.exe), PID 22912.
+[unix:1793813566] Запущен TEKKEN 7 (tekkengame-win64-shipping.exe), PID 14104.
+[unix:1793813567] Запущен The Escapists 2 (theescapists2.exe), PID 20516.
+[unix:1793813567] Запущен Crusader Kings II (ck2game.exe), PID 19288.
+[unix:1793813567] Запущен Middle-earth: Shadow of Mordor (shadowofmordor.exe), PID 8560.
+[unix:1793813567] Запущен METAL GEAR SOLID V: THE PHANTOM PAIN (mgsvmgo.exe), PID 1124.
+[unix:1793813567] Запущен Idle Champions of the Forgotten Realms (idledragons.exe), PID 22392.
+[unix:1793813567] Запущен HuniePop (huniepop.exe), PID 19680.
+[unix:1793813567] Запущен Ultimate Chicken Horse (ultimatechickenhorse.exe), PID 7464.
+[unix:1793813567] Запущен NieR:Automata (nierautomata.exe), PID 22524.
+[unix:1793813567] Запущен DARK SOULS II: Scholar of the First Sin (darksoulsii.exe), PID 5952.
+[unix:1793813567] Запущен Total War: WARHAMMER II (warhammer2.exe), PID 10556.
+[unix:1793813568] Запущен Skullgirls (skullgirls.exe), PID 18916.
+[unix:1793813568] Запущен Farming Simulator 17 (farmingsimulator2017game.exe), PID 11176.
+[unix:1793813568] Запущен 100% Orange Juice (100orange.exe), PID 17564.
+[unix:1793813568] Запущен Call of Duty: Black Ops II (t6sp.exe), PID 23024.
+[unix:1793813568] Запущен Sonic Adventure 2 (sonic2app.exe), PID 20644.
+[unix:1793813568] Запущен Dishonored (dishonored.exe), PID 8164.
+[unix:1793813568] Запущен Sven Co-op (svencoop.exe), PID 3820.
+[unix:1793813568] Запущен Tower Unite (tower-win64-shipping.exe), PID 23056.
+[unix:1793813568] Запущен Dying Light (dyinglightgame.exe), PID 17076.
+[unix:1793813569] Запущен Chivalry: Medieval Warfare (cmw.exe), PID 11308.
+[unix:1793813569] Запущен ASTRONEER (astro-win64-shipping.exe), PID 16160.
+[unix:1793813569] Запущен Creativerse (creativerse.exe), PID 10272.
+[unix:1793813569] Запущен Tom Clancy's Ghost Recon Wildlands (grw.exe), PID 19996.
+[unix:1793813569] Запущен Warhammer: End Times - Vermintide (vermintide.exe), PID 23396.
+[unix:1793813569] Запущен Killing Floor (killingfloor.exe), PID 7148.
+[unix:1793813569] Запущен Kerbal Space Program (ksp_x64.exe), PID 20880.
+[unix:1793813569] Запущен Rise of the Tomb Raider (rottr.exe), PID 20428.
+[unix:1793813569] Запущен Infestation: The New Z (thenewz.exe), PID 18880.
+[unix:1793813570] Запущен Mirage: Arcane Warfare (tbl-win64-shipping.exe), PID 884.
+[unix:1793813570] Запущен STAR WARS™ Battlefront™ II (starwarsbattlefrontii.exe), PID 5264.
+[unix:1793813570] Запущен Cuphead (cuphead.exe), PID 23744.
+[unix:1793813570] Запущен NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 (nsuns4.exe), PID 2392.
+[unix:1793813570] Запущен TERA (tera.exe), PID 11912.
+[unix:1793813570] Запущен Saints Row IV (saintsrowiv.exe), PID 17608.
+[unix:1793813570] Запущен Absolver (absolver-win64-shipping.exe), PID 18832.
+[unix:1793813570] Запущен Scrap Mechanic (scrapmechanic.exe), PID 11832.
+[unix:1793813571] Запущен Oxygen Not Included (oxygennotincluded.exe), PID 16584.
+[unix:1793813571] Запущен Half-Life (hl.exe), PID 8604.
+[unix:1793813571] Запущен Nuclear Throne (nuclearthrone.exe), PID 1196.
+[unix:1793813571] Запущен The Sims 3 (ts3w.exe), PID 11620.
+[unix:1793813571] Запущен Ravenfield (ravenfield.exe), PID 23796.
+[unix:1793813571] Запущен Life is Strange (lifeisstrange.exe), PID 14792.
+[unix:1793813571] Запущен Hollow Knight (hollow_knight.exe), PID 9088.
+[unix:1793813571] Запущен Saints Row: The Third (saintsrowthethird_dx11.exe), PID 8784.
+[unix:1793813571] Запущен Planet Coaster (planetcoaster.exe), PID 1952.
+[unix:1793813572] Запущен Dishonored 2 (dishonored2.exe), PID 16472.
+[unix:1793813572] Запущен Clustertruck (clustertruck.exe), PID 12380.
+[unix:1793813572] Запущен Crush Crush (crushcrush.exe), PID 24520.
+[unix:1793813572] Запущен Battlefield 3 (bf3.exe), PID 21364.
+[unix:1793813572] Запущен Company of Heroes 2 (reliccoh2.exe), PID 12816.
+[unix:1793813572] Запущен Realm Grinder (realmgrinderdesktop.exe), PID 18064.
+[unix:1793813572] Запущен Project CARS (pcars.exe), PID 7228.
+[unix:1793813572] Запущен Guitar Hero III: Legends of Rock (gh3.exe), PID 11816.
+[unix:1793813572] Запущен Roblox (robloxplayerbeta.exe), PID 8840.
+[unix:1793813573] Запущен Grand Theft Auto San Andreas (gta-sa.exe), PID 23928.
+[unix:1793813573] Запущен Destiny 2 (destiny2.exe), PID 20364.
+[unix:1793813573] Запущен Hob (hob.exe), PID 2024.
+[unix:1793813573] Запущен Fallout (falloutw.exe), PID 23048.
+[unix:1793813573] Запущен Middle-earth: Shadow of War (shadowofwar.exe), PID 13404.
+[unix:1793813573] Запущен Wolfenstein: The New Order (wolfneworder_x64.exe), PID 24444.
+[unix:1793813573] Запущен Day of Infamy (dayofinfamy_be.exe), PID 21608.
+[unix:1793813573] Запущен Deceit (deceit.exe), PID 10296.
+[unix:1793813573] Запущен Darkest Dungeon (darkest.exe), PID 8584.
+[unix:1793813574] Запущен Bendy and the Ink Machine (batim.exe), PID 5416.
+[unix:1793813574] Запущен Besiege (besiege.exe), PID 22240.
+[unix:1793813574] Запущен Life is Strange: Before the Storm (life is strange - before the storm.exe), PID 10900.
+[unix:1793813574] Запущен GUNS UP! (guns up.exe), PID 5672.
+[unix:1793813574] Запущен FIFA 18 (fifa18.exe), PID 24028.
+[unix:1793813574] Запущен Sanctum 2 (sanctumgame-win32-shipping.exe), PID 8364.
+[unix:1793813574] Запущен Human: Fall Flat (human.exe), PID 20104.
+[unix:1793813574] Запущен Assassin's Creed Origins (acorigins.exe), PID 3460.
+[unix:1793813574] Запущен CS2D (cs2d.exe), PID 21604.
+[unix:1793813575] Запущен Wolfenstein II: The New Colossus (newcolossus_x64vk.exe), PID 22856.
+[unix:1793813575] Запущен DayZ (dayz.exe), PID 20848.
+[unix:1793813575] Запущен Brutal Legend (brutallegend.exe), PID 21644.
+[unix:1793813575] Запущен Zombidle (zombidle.exe), PID 23204.
+[unix:1793813575] Запущен Shadowrun: Hong Kong (srhk.exe), PID 20852.
+[unix:1793813575] Запущен Rising Storm 2: Vietnam (vngame.exe), PID 4416.
+[unix:1793813575] Запущен The Bureau: XCOM Declassified (thebureau.exe), PID 22092.
+[unix:1793813575] Запущен Elsword (elsword.exe), PID 14144.
+[unix:1793813575] Запущен Total War: Rome 2 (rome2.exe), PID 20276.
+[unix:1793813576] Запущен Guns of Icarus Online (gunsoficarusonline.exe), PID 2456.
+[unix:1793813576] Запущен Guns N' Boxes (gunsnboxes.exe), PID 15152.
+[unix:1793813576] Запущен Assassin's Creed IV Black Flag (ac4bfmp.exe), PID 7248.
+[unix:1793813576] Запущен Escape from Tarkov (escapefromtarkov.exe), PID 22296.
+[unix:1793813576] Запущен SCP: Secret Laboratory (scpsl.exe), PID 20288.
+[unix:1793813576] Запущен They Are Billions (theyarebillions.exe), PID 400.
+[unix:1793813576] Запущен The Long Dark (tld.exe), PID 22928.
+[unix:1793813576] Запущен Pokémon Trading Card Game Online (pokemon trading card game online.exe), PID 4964.
+[unix:1793813576] Запущен Kingdom: Classic (kingdom.exe), PID 8960.
+[unix:1793813577] Запущен Don't Starve (dontstarve_steam.exe), PID 4020.
+[unix:1793813577] Запущен Long Live Santa! (long live santa.exe), PID 17528.
+[unix:1793813577] Запущен Kingdoms and Castles (kingdomsandcastles.exe), PID 21224.
+[unix:1793813577] Запущен Broforce (broforce_beta.exe), PID 3132.
+[unix:1793813577] Запущен Neverwinter (neverwinter.exe), PID 3328.
+[unix:1793813577] Запущен Tibia (tibia.exe), PID 6496.
+[unix:1793813577] Запущен Papers, Please (papersplease.exe), PID 19848.
+[unix:1793813577] Запущен Spore (sporeapp.exe), PID 22180.
+[unix:1793813577] Запущен Plague Inc: Evolved (plagueincevolved.exe), PID 18764.
+[unix:1793813578] Запущен Borderlands: The Pre-Sequel (borderlandspresequel.exe), PID 11748.
+[unix:1793813578] Запущен Hotline Miami (hotlinemiami.exe), PID 15204.
+[unix:1793813578] Запущен Homefront (homefront.exe), PID 17644.
+[unix:1793813578] Запущен theHunter™: Call of the Wild (thehuntercotw_f.exe), PID 12340.
+[unix:1793813578] Запущен Tomb Raider (tombraider.exe), PID 24468.
+[unix:1793813578] Запущен The Binding of Isaac (binding_of_isaac.exe), PID 16968.
+[unix:1793813578] Запущен We Were Here (we were here.exe), PID 11952.
+[unix:1793813578] Запущен This War of Mine (this war of mine.exe), PID 22472.
+[unix:1793813578] Запущен Hotline Miami 2: Wrong Number (hotlinemiami2.exe), PID 22352.
+[unix:1793813579] Запущен Wulverblade (wulverblade.exe), PID 10088.
+[unix:1793813579] Запущен Hand Simulator (hand simulator.exe), PID 22408.
+[unix:1793813579] Запущен DRAGON BALL FighterZ (dbfighterz.exe), PID 3876.
+[unix:1793813579] Запущен BATTALION 1944 (battalion.exe), PID 23824.
+[unix:1793813579] Запущен World of Tanks Blitz (wotblitz.exe), PID 23860.
+[unix:1793813579] Запущен Doki Doki Literature Club (ddlc.exe), PID 14748.
+[unix:1793813579] Запущен Borderlands 2 (borderlands2.exe), PID 20872.
+[unix:1793813579] Запущен SoulWorker (soulworker.exe), PID 23420.
+[unix:1793813579] Запущен Warcraft III (war3.exe), PID 14636.
+[unix:1793813580] Запущен Assassin's Creed Chronicles China (accgame-win32-shipping.exe), PID 23568.
+[unix:1793813580] Запущен Assassin's Creed Rogue (acc.exe), PID 23812.
+[unix:1793813580] Запущен Assassin's Creed Brotherhood (acbmp.exe), PID 23624.
+[unix:1793813580] Запущен Assassin's Creed Revelations (acrsp.exe), PID 3772.
+[unix:1793813580] Запущен Batman: Arkham Knight (batmanak.exe), PID 20864.
+[unix:1793813580] Запущен Batman: Arkham Origins (batmanorigins.exe), PID 22308.
+[unix:1793813580] Запущен Batman: Arkham VR (arkhamvr.exe), PID 4228.
+[unix:1793813580] Запущен Beyond Good and Evil (bge.exe), PID 21732.
+[unix:1793813581] Запущен F.E.A.R. (fearxp.exe), PID 21756.
+[unix:1793813581] Запущен F.E.A.R. 2: Project Origin (fear2.exe), PID 16616.
+[unix:1793813581] Запущен F.E.A.R. 3 (f.e.a.r. 3.exe), PID 8328.
+[unix:1793813581] Запущен Far Cry (farcry.exe), PID 18356.
+[unix:1793813581] Запущен Far Cry 2 (farcry2.exe), PID 22992.
+[unix:1793813581] Запущен Far Cry 4 (farcry4.exe), PID 2892.
+[unix:1793813581] Запущен Far Cry Primal (fcprimal.exe), PID 20112.
+[unix:1793813581] Запущен For Honor (forhonor.exe), PID 17532.
+[unix:1793813581] Запущен Injustice: Gods Among Us Ultimate Edition (injustice.exe), PID 12536.
+[unix:1793813582] Запущен Just Dance 2017 (jd2017.exe), PID 23384.
+[unix:1793813582] Запущен LEGO® The Hobbit™ (legohobbit.exe), PID 15068.
+[unix:1793813582] Запущен LEGO® Worlds (lego_worlds_dx11.exe), PID 21192.
+[unix:1793813582] Запущен Mad Max (madmax.exe), PID 11484.
+[unix:1793813582] Запущен Mortal Kombat Komplete Edition (mkke.exe), PID 14628.
+[unix:1793813582] Запущен Mortal Kombat X (mk10.exe), PID 19752.
+[unix:1793813582] Запущен Rayman Legends (rayman legends.exe), PID 13808.
+[unix:1793813582] Запущен Rayman Origins (rayman origins.exe), PID 16540.
+[unix:1793813582] Запущен Rocksmith 2014 (rocksmith2014.exe), PID 14816.
+[unix:1793813583] Запущен Steep (steep.exe), PID 3528.
+[unix:1793813583] Запущен The Crew (thecrew.exe), PID 15412.
+[unix:1793813583] Запущен The LEGO® Movie - Videogame (legoemmet.exe), PID 17296.
+[unix:1793813583] Запущен Tom Clancy's Ghost Recon Future Soldier (future soldier.exe), PID 21064.
+[unix:1793813583] Запущен Tom Clancy's Splinter Cell (splintercell.exe), PID 10780.
+[unix:1793813583] Запущен Tom Clancy's Splinter Cell Blacklist (blacklist_dx11_game.exe), PID 16272.
+[unix:1793813583] Запущен Trackmania Turbo (trackmaniaturbo.exe), PID 21828.
+[unix:1793813583] Запущен Trials Fusion (trials_fusion.exe), PID 376.
+[unix:1793813583] Запущен Watch_Dogs (watch_dogs.exe), PID 21096.
+[unix:1793813584] Запущен Watch_Dogs 2 (watchdogs2.exe), PID 19864.
+[unix:1793813584] Запущен Fade to Silence (whitesilence-win64-shipping.exe), PID 15940.
+[unix:1793813584] Запущен Ori and the Blind Forest: Definitive Edition (oride.exe), PID 23216.
+[unix:1793813584] Запущен Red Faction (redfaction.exe), PID 22828.
+[unix:1793813584] Запущен The Guild 3 (guild3.exe), PID 23548.
+[unix:1793813584] Запущен Firewatch (firewatch.exe), PID 10260.
+[unix:1793813584] Запущен The Witness (witness64_d3d11.exe), PID 19316.
+[unix:1793813584] Запущен The Talos Principle (talos.exe), PID 21768.
+[unix:1793813584] Запущен The Surge (thesurge.exe), PID 19436.
+[unix:1793813585] Запущен Rebel Galaxy (rebelgalaxysteam.exe), PID 21812.
+[unix:1793813585] Запущен Fractured Space (fractured space.exe), PID 18512.
+[unix:1793813585] Запущен Hyper Light Drifter (hyperlightdrifter.exe), PID 24348.
+[unix:1793813585] Запущен Stonehearth (stonehearth.exe), PID 6700.
+[unix:1793813585] Запущен Obduction (obduction-win64-shipping.exe), PID 21268.
+[unix:1793813585] Запущен Shovel Knight (shovelknight.exe), PID 10384.
+[unix:1793813585] Запущен Wolcen: Lords of Mayhem (wolcen.exe), PID 6868.
+[unix:1793813585] Запущен Planet Nomads (planetnomads.exe), PID 20640.
+[unix:1793813585] Запущен Agents of Mayhem (aom_release_final.exe), PID 10536.
+[unix:1793813586] Запущен Dead Island Definitive Edition (deadislandgame.exe), PID 756.
+[unix:1793813586] Запущен Dead Island Riptide Definitive Edition (deadislandriptidegame.exe), PID 19500.
+[unix:1793813586] Запущен DiRT 4 (dirt4.exe), PID 13252.
+[unix:1793813586] Запущен F1 2016 (f1_2016.exe), PID 13380.
+[unix:1793813586] Запущен F1 2017 (f1_2017.exe), PID 13912.
+[unix:1793813586] Запущен Metro 2033 Redux (metro2033.exe), PID 3292.
+[unix:1793813586] Запущен Metro: Last Light Redux (metroll.exe), PID 6408.
+[unix:1793813586] Запущен Micro Machines World Series (micromachines.exe), PID 16124.
+[unix:1793813586] Запущен Mighty No. 9 (mn9game.exe), PID 12588.
+[unix:1793813587] Запущен Risen (risen.exe), PID 24160.
+[unix:1793813587] Запущен Ryse: Son of Rome (ryse.exe), PID 16820.
+[unix:1793813587] Запущен Saints Row 2 (sr2_pc.exe), PID 7376.
+[unix:1793813587] Запущен Bridge Constructor (bridgeconstructor.exe), PID 18324.
+[unix:1793813587] Запущен Bridge Constructor Portal (bridge_constructor_portal.exe), PID 23264.
+[unix:1793813587] Запущен Dead Age (deadage.exe), PID 20976.
+[unix:1793813587] Запущен SEUM: Speedrunners from Hell (seum.exe), PID 24052.
+[unix:1793813587] Запущен BioShock 2 (bioshock2.exe), PID 9916.
+[unix:1793813587] Запущен BioShock™ 2 Remastered (bioshock2hd.exe), PID 11420.
+[unix:1793813588] Запущен BioShock Infinite (bioshockinfinite.exe), PID 22076.
+[unix:1793813588] Запущен BioShock™ Remastered (bioshock.exe), PID 23404.
+[unix:1793813588] Запущен Mafia II (mafia2.exe), PID 21072.
+[unix:1793813588] Запущен Mafia III (mafia3.exe), PID 22052.
+[unix:1793813588] Запущен Sid Meier's Civilization: Beyond Earth (civilizationbe_dx11.exe), PID 23224.
+[unix:1793813588] Запущен WWE 2K18 (wwe2k18_x64.exe), PID 18856.
+[unix:1793813588] Запущен Deponia (deponia.exe), PID 11568.
+[unix:1793813588] Запущен Silence (silence.exe), PID 19192.
+[unix:1793813588] Запущен GoNNER (gonner.exe), PID 6472.
+[unix:1793813589] Запущен LEGO® STAR WARS™: The Force Awakens (legoswtfa_dx11.exe), PID 21840.
+[unix:1793813589] Запущен LEGO® MARVEL's Avengers (legomarvelavengers.exe), PID 20672.
+[unix:1793813589] Запущен LEGO® Jurassic World (legojurassicworld_dx11.exe), PID 17388.
+[unix:1793813589] Запущен From Dust (from_dust.exe), PID 1748.
+[unix:1793813589] Запущен Rocksmith (rocksmith.exe), PID 21636.
+[unix:1793813589] Запущен Tom Clancy's Ghost Recon (ghostrecon.exe), PID 14944.
+[unix:1793813589] Запущен ArcaniA (arcania.exe), PID 16928.
+[unix:1793813589] Запущен MX vs. ATV Unleashed (mxvsatv.exe), PID 19152.
+[unix:1793813590] Запущен The Dwarves (dwarves.exe), PID 20396.
+[unix:1793813590] Запущен Sunless Skies (sunless skies.exe), PID 24024.
+[unix:1793813590] Запущен Deadlight: Director's Cut (lotdgame.exe), PID 18448.
+[unix:1793813590] Запущен Sacred 3 (sacred3.exe), PID 20488.
+[unix:1793813590] Запущен The Inner World (theinnerworld.exe), PID 18388.
+[unix:1793813590] Запущен Assassin's Creed Freedom Cry (acfc.exe), PID 19912.
+[unix:1793813590] Запущен Bloody Good Time (bgt.exe), PID 5124.
+[unix:1793813590] Запущен Far Cry 3 Blood Dragon (fc3_blooddragon_d3d11_b.exe), PID 1008.
+[unix:1793813590] Запущен I Am Alive (iamalive_game.exe), PID 22836.
+[unix:1793813591] Запущен Prince of Persia (princeofpersia_launcher.exe), PID 21068.
+[unix:1793813591] Запущен Black Mirror (blackmirror.exe), PID 13972.
+[unix:1793813591] Запущен Full Spectrum Warrior: Ten Hammers (fsw2.exe), PID 21380.
+[unix:1793813591] Запущен Men of Valor (menofvalor.exe), PID 9844.
+[unix:1793813591] Запущен Sine Mora EX (sinemoraex.exe), PID 21212.
+[unix:1793813591] Запущен Sphinx and the Cursed Mummy (sphinxd_gl.exe), PID 2912.
+[unix:1793813591] Запущен The Book of Unwritten Tales 2 (bout2.exe), PID 23004.
+[unix:1793813591] Запущен The Guild Gold Edition (europa1400gold_tl.exe), PID 8900.
+[unix:1793813591] Запущен Shroud of the Avatar (shroud of the avatar.exe), PID 23820.
+[unix:1793813592] Запущен Descent: Underground (descent.exe), PID 21868.
+[unix:1793813592] Запущен Escape Dead Island (escapedeadisland.exe), PID 13684.
+[unix:1793813592] Запущен Bridge Constructor Medieval (bridge_constructor_medieval.exe), PID 19952.
+[unix:1793813592] Запущен Bridge Constructor Playground (bridgeconstructorplayground.exe), PID 23560.
+[unix:1793813592] Запущен Bridge Constructor Stunts (bridge_constructor_stunts.exe), PID 23380.
+[unix:1793813592] Запущен Deadly 30 (deadly30.exe), PID 23652.
+[unix:1793813624] Программа завершена.
+[unix:1793815387] Запрошена остановка.
+[unix:1793815388] Остановлено процессов: 235.
+[unix:1793815388] Часы: завершено.
+[unix:1793815388] Запуск завершён.
+[unix:1793815395] Ожидаем остановку процессов...
+[unix:1793815395] Программа завершена.
+[unix:1793887944] Программа запущена.
+[unix:1793887944] В базе найдено 1583 подходящих игр.
+[unix:1793887957] Программа завершена.
+[unix:1793888295] Программа запущена.
+[unix:1793888296] В базе найдено 1583 подходящих игр.
+[unix:1793888319] Программа завершена.

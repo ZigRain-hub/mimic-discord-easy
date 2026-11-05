@@ -1,0 +1,14 @@
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Checking windows-link v0.2.1
+    Checking itoa v1.0.18
+    Checking memchr v2.8.3
+    Checking serde_core v1.0.229
+    Checking zmij v1.0.23
+    Checking windows-sys v0.61.2
+    Checking ctrlc v3.5.2
+    Checking serde v1.0.229
+    Checking serde_json v1.0.154
+    Checking qdcord v0.1.0 (D:\dev\VSCode\rust\qdcord_src)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 4.06s

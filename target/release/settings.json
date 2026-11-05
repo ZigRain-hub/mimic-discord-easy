@@ -1,0 +1,11 @@
+{
+  "mode": "variety",
+  "variety_parallel": 8,
+  "variety_interval_ms": 400,
+  "hold_seconds": 15,
+  "limit": 0,
+  "hours_parallel": 55,
+  "hours_interval_ms": 100,
+  "duration_minutes": 0,
+  "skip_played": true
+}
